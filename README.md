@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 A Chrome extension that:
-1. Authenticates users via Clerk
+1. Authenticates users via Clerk Service
 2. Scrapes current Amazon product page
 3. Calculates carbon footprint using Gemini AI
 4. Recommends top 3 lower-carbon alternatives
