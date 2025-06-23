@@ -62,7 +62,7 @@ Create a `.env` file in the root directory:
 VITE_GEMINI_API_KEY="your_gemini_api_key"    #🤖 Gemini API Key → Get your key for Google AI (https://makersuite.google.com/app/apikey)
 VITE_API_URL=http://localhost:8000
 VITE_CLERK_PUBLISHABLE_KEY="your_clerk_api_key"   #🔑 Get your Clerk API keys at the [Clerk Dashboard](https://dashboard.clerk.dev)  
-→ Go to your application → **API Keys** section
+→ Go to your application → API Keys section
 
 ```
 
