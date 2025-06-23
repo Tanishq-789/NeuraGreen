@@ -160,6 +160,13 @@ export const analyzeProduct = async (title) => {
 
 ---
 
+## 🧪 Output:
+
+![image](https://github.com/user-attachments/assets/cc39f350-f4c4-423d-9efd-5aafa8cd54b9)
+
+
+---
+
 ## 📜 License
 
 MIT © \[Tanishq Shinde]
