@@ -9,6 +9,7 @@
 ## 📌 Overview
 
 **NeuraGreen** is a full-stack web application that:
+
 1. Lets users input or scrape Amazon product data
 2. Uses **Gemini AI** to analyze the product's carbon footprint
 3. Recommends top 3 lower-carbon alternatives based on the analysis
