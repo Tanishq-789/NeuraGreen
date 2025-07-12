@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Overview :
+## 📌 Overview:
 
 **NeuraGreen** is a full-stack web application that:
 
